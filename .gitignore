@@ -7,3 +7,5 @@ Saved/*
 # Compiled source files for the engine to use
 Intermediate/*
 
+Config/DefaultGame.ini
+Content/School.umap
